@@ -1,3 +1,3 @@
-## 吴恩达机器学习作业完成 Octave 版本：
-
-* 作业链接：https://www.coursera.org/learn/machine-learning
+## 机器学习
+### 1. 机器学习实战（https://github.com/Jack-Cherish/Machine-Learning）
+### 2. 吴恩达机器学习
